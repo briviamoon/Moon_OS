@@ -1,0 +1,121 @@
+make[1]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/intl'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/intl'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/zlib'
+true "AR_FLAGS=rc" "CC_FOR_BUILD=gcc" "CFLAGS=-g -O2    " "CXXFLAGS=-g -O2    " "CFLAGS_FOR_BUILD=-g -O2" "CFLAGS_FOR_TARGET=-g -O2" "INSTALL=/usr/bin/install -c" "INSTALL_DATA=/usr/bin/install -c -m 644" "INSTALL_PROGRAM=/usr/bin/install -c" "INSTALL_SCRIPT=/usr/bin/install -c" "LDFLAGS=" "LIBCFLAGS=-g -O2  " "LIBCFLAGS_FOR_TARGET=-g -O2" "MAKE=make" "MAKEINFO=makeinfo --split-size=5000000 --split-size=5000000 " "PICFLAG=" "PICFLAG_FOR_TARGET=" "SHELL=/bin/bash" "EXPECT=expect" "RUNTEST=runtest" "RUNTESTFLAGS=" "exec_prefix=/usr/local/cross" "infodir=/usr/local/cross/share/info" "libdir=/usr/local/cross/lib" "prefix=/usr/local/cross" "tooldir=/usr/local/cross/x86_64-elf" "AR=ar --plugin /usr/libexec/gcc/x86_64-linux-gnu/13/liblto_plugin.so" "AS=as" "CC=gcc" "CXX=g++" "LD=ld" "LIBCFLAGS=-g -O2  " "NM=nm" "PICFLAG=" "RANLIB=ranlib --plugin /usr/libexec/gcc/x86_64-linux-gnu/13/liblto_plugin.so" "DESTDIR=" DO=all multi-do # make
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/zlib'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+Making info in doc
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+Making info in po
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[3]: Nothing to be done for 'info'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[3]: Nothing to be done for 'info-am'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+Making all in doc
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+Making all in .
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes/po'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+Making all in doc
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make  all-am
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+Making info in doc
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+make[3]: Nothing to be done for 'info'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+Making info in po
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[3]: Nothing to be done for 'info'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[3]: Nothing to be done for 'info-am'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+Making all in doc
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/etc'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/etc'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make  all-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+Making all in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld/po'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[1]: Nothing to be done for 'all-target'.
+make[1]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils'

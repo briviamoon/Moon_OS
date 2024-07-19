@@ -1,0 +1,252 @@
+make[1]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils'
+/bin/bash ../binutils-2.37/mkinstalldirs /usr/local/cross /usr/local/cross
+mkdir -p -- /usr/local/cross /usr/local/cross
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make  install-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+Making install in doc
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+ /usr/bin/mkdir -p '/usr/local/cross/share/info'
+ /usr/bin/install -c -m 644 ../../../binutils-2.37/bfd/doc/bfd.info '/usr/local/cross/share/info'
+ install-info --info-dir='/usr/local/cross/share/info' '/usr/local/cross/share/info/bfd.info'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/doc'
+Making install in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[4]: Nothing to be done for 'install'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[5]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[5]: Nothing to be done for 'install-exec-am'.
+make[5]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/bfd'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+Making install in .
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[4]: Nothing to be done for 'install-exec-am'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+Making install in po
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes/po'
+make[3]: Nothing to be done for 'install'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes/po'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/opcodes'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make  install-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+Making install in doc
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+make[5]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+make[5]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/cross/share/info'
+ /usr/bin/install -c -m 644 ../../../binutils-2.37/binutils/doc/binutils.info '/usr/local/cross/share/info'
+ install-info --info-dir='/usr/local/cross/share/info' '/usr/local/cross/share/info/binutils.info'
+ /usr/bin/mkdir -p '/usr/local/cross/share/man/man1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/addr2line.1' '/usr/local/cross/share/man/man1/x86_64-elf-addr2line.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/ar.1' '/usr/local/cross/share/man/man1/x86_64-elf-ar.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/dlltool.1' '/usr/local/cross/share/man/man1/x86_64-elf-dlltool.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/nm.1' '/usr/local/cross/share/man/man1/x86_64-elf-nm.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/objcopy.1' '/usr/local/cross/share/man/man1/x86_64-elf-objcopy.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/objdump.1' '/usr/local/cross/share/man/man1/x86_64-elf-objdump.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/ranlib.1' '/usr/local/cross/share/man/man1/x86_64-elf-ranlib.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/readelf.1' '/usr/local/cross/share/man/man1/x86_64-elf-readelf.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/size.1' '/usr/local/cross/share/man/man1/x86_64-elf-size.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/strings.1' '/usr/local/cross/share/man/man1/x86_64-elf-strings.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/strip.1' '/usr/local/cross/share/man/man1/x86_64-elf-strip.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/elfedit.1' '/usr/local/cross/share/man/man1/x86_64-elf-elfedit.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/windres.1' '/usr/local/cross/share/man/man1/x86_64-elf-windres.1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/binutils/doc/windmc.1' '/usr/local/cross/share/man/man1/x86_64-elf-windmc.1'
+ /usr/bin/install -c -m 644 'c++filt.1' '/usr/local/cross/share/man/man1/x86_64-elf-c++filt.1'
+make[5]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/doc'
+Making install in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[4]: Nothing to be done for 'install'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[5]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+ /usr/bin/mkdir -p '/usr/local/cross/bin'
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c size '/usr/local/cross/bin/./x86_64-elf-size'
+libtool: install: /usr/bin/install -c size /usr/local/cross/bin/./x86_64-elf-size
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c objdump '/usr/local/cross/bin/./x86_64-elf-objdump'
+libtool: install: /usr/bin/install -c objdump /usr/local/cross/bin/./x86_64-elf-objdump
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c ar '/usr/local/cross/bin/./x86_64-elf-ar'
+libtool: install: /usr/bin/install -c ar /usr/local/cross/bin/./x86_64-elf-ar
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c strings '/usr/local/cross/bin/./x86_64-elf-strings'
+libtool: install: /usr/bin/install -c strings /usr/local/cross/bin/./x86_64-elf-strings
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c ranlib '/usr/local/cross/bin/./x86_64-elf-ranlib'
+libtool: install: /usr/bin/install -c ranlib /usr/local/cross/bin/./x86_64-elf-ranlib
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c objcopy '/usr/local/cross/bin/./x86_64-elf-objcopy'
+libtool: install: /usr/bin/install -c objcopy /usr/local/cross/bin/./x86_64-elf-objcopy
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c addr2line '/usr/local/cross/bin/./x86_64-elf-addr2line'
+libtool: install: /usr/bin/install -c addr2line /usr/local/cross/bin/./x86_64-elf-addr2line
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c readelf '/usr/local/cross/bin/./x86_64-elf-readelf'
+libtool: install: /usr/bin/install -c readelf /usr/local/cross/bin/./x86_64-elf-readelf
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c elfedit '/usr/local/cross/bin/./x86_64-elf-elfedit'
+libtool: install: /usr/bin/install -c elfedit /usr/local/cross/bin/./x86_64-elf-elfedit
+  /bin/bash ./libtool  --mode=install /usr/bin/install -c nm-new /usr/local/cross/bin/x86_64-elf-nm
+libtool: install: /usr/bin/install -c nm-new /usr/local/cross/bin/x86_64-elf-nm
+  /bin/bash ./libtool  --mode=install /usr/bin/install -c strip-new /usr/local/cross/bin/x86_64-elf-strip
+libtool: install: /usr/bin/install -c strip-new /usr/local/cross/bin/x86_64-elf-strip
+  /bin/bash ./libtool  --mode=install /usr/bin/install -c cxxfilt /usr/local/cross/bin/x86_64-elf-c++filt
+libtool: install: /usr/bin/install -c cxxfilt /usr/local/cross/bin/x86_64-elf-c++filt
+/bin/bash ../../binutils-2.37/binutils/../mkinstalldirs /usr/local/cross/x86_64-elf/bin
+mkdir -p -- /usr/local/cross/x86_64-elf/bin
+for i in nm-new strip-new ar ranlib dlltool objdump objcopy readelf; do \
+  if [ -f $i ]; then \
+    j=`echo $i | sed -e 's/-new//'`; \
+    k=`echo $j | sed 's&^&x86_64-elf-&'`; \
+    if [ "/usr/local/cross/bin/$k" != "/usr/local/cross/x86_64-elf/bin/$j" ]; then \
+      rm -f /usr/local/cross/x86_64-elf/bin/$j; \
+      ln /usr/local/cross/bin/$k /usr/local/cross/x86_64-elf/bin/$j >/dev/null 2>/dev/null \
+	||  /bin/bash ./libtool --mode=install /usr/bin/install -c $i /usr/local/cross/x86_64-elf/bin/$j; \
+    fi; \
+  else true; \
+  fi; \
+done
+make[5]: Nothing to be done for 'install-data-am'.
+make[5]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/binutils'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/etc'
+make[2]: Nothing to be done for 'install'.
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/etc'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+Making install in doc
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+make[4]: Nothing to be done for 'install-exec-am'.
+ /usr/bin/mkdir -p '/usr/local/cross/share/info'
+ /usr/bin/install -c -m 644 ../../../binutils-2.37/gas/doc/as.info '/usr/local/cross/share/info'
+ install-info --info-dir='/usr/local/cross/share/info' '/usr/local/cross/share/info/as.info'
+ /usr/bin/mkdir -p '/usr/local/cross/share/man/man1'
+ /usr/bin/install -c -m 644 '../../../binutils-2.37/gas/doc/as.1' '/usr/local/cross/share/man/man1/x86_64-elf-as.1'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/doc'
+Making install in po
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/po'
+make[3]: Nothing to be done for 'install'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas/po'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+/bin/bash ../../binutils-2.37/gas/../mkinstalldirs /usr/local/cross/bin
+  /bin/bash ./libtool  --mode=install /usr/bin/install -c as-new /usr/local/cross/bin/x86_64-elf-as
+libtool: install: /usr/bin/install -c as-new /usr/local/cross/bin/x86_64-elf-as
+/bin/bash ../../binutils-2.37/gas/../mkinstalldirs /usr/local/cross/x86_64-elf/bin
+n=`echo as | sed 's&^&x86_64-elf-&'`; \
+if [ "/usr/local/cross/bin/$n" != "/usr/local/cross/x86_64-elf/bin/as" ]; then \
+  rm -f /usr/local/cross/x86_64-elf/bin/as; \
+  ln /usr/local/cross/bin/$n /usr/local/cross/x86_64-elf/bin/as >/dev/null 2>/dev/null \
+    ||  /bin/bash ./libtool --mode=install /usr/bin/install -c as-new /usr/local/cross/x86_64-elf/bin/as; \
+else \
+  true ; \
+fi
+make[4]: Nothing to be done for 'install-data-am'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gas'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make  install-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+Making install in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof/po'
+make[4]: Nothing to be done for 'install'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[5]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+ /usr/bin/mkdir -p '/usr/local/cross/bin'
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c gprof '/usr/local/cross/bin/./x86_64-elf-gprof'
+libtool: install: /usr/bin/install -c gprof /usr/local/cross/bin/./x86_64-elf-gprof
+ /usr/bin/mkdir -p '/usr/local/cross/share/info'
+ /usr/bin/install -c -m 644 ../../binutils-2.37/gprof/gprof.info '/usr/local/cross/share/info'
+ install-info --info-dir='/usr/local/cross/share/info' '/usr/local/cross/share/info/gprof.info'
+ /usr/bin/mkdir -p '/usr/local/cross/share/man/man1'
+ /usr/bin/install -c -m 644 '../../binutils-2.37/gprof/gprof.1' '/usr/local/cross/share/man/man1/x86_64-elf-gprof.1'
+make[5]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/gprof'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/intl'
+make[2]: Nothing to be done for 'install'.
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/intl'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libctf'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make  install-recursive
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+Making install in po
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld/po'
+make[4]: Nothing to be done for 'install'.
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld/po'
+make[4]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[5]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+ /usr/bin/mkdir -p '/usr/local/cross/bin'
+  /bin/bash ./libtool   --mode=install /usr/bin/install -c ld-new '/usr/local/cross/bin/./x86_64-elf-ld.bfd'
+libtool: install: /usr/bin/install -c ld-new /usr/local/cross/bin/./x86_64-elf-ld.bfd
+/bin/bash ../../binutils-2.37/ld/../mkinstalldirs /usr/local/cross/x86_64-elf/bin
+n=`echo ld.bfd | sed 's/^ld-new$/ld.bfd/;s&^&x86_64-elf-&'`; \
+if test "/usr/local/cross/bin" != "/usr/local/cross/x86_64-elf/bin"; then \
+  rm -f /usr/local/cross/x86_64-elf/bin/ld.bfd; \
+  ln /usr/local/cross/bin/$n /usr/local/cross/x86_64-elf/bin/ld.bfd >/dev/null 2>/dev/null \
+  ||  /bin/bash ./libtool --mode=install /usr/bin/install -c ld-new /usr/local/cross/x86_64-elf/bin/ld.bfd; \
+fi; \
+if test "xyes" = "xyes"; then \
+  ld=`echo ld | sed 's/^ld-new$/ld.bfd/;s&^&x86_64-elf-&'`; \
+  rm -f /usr/local/cross/bin/$ld; \
+  ln /usr/local/cross/bin/$n /usr/local/cross/bin/$ld >/dev/null 2>/dev/null \
+  ||  /bin/bash ./libtool --mode=install /usr/bin/install -c ld-new /usr/local/cross/bin/$ld; \
+  if test "/usr/local/cross/bin" != "/usr/local/cross/x86_64-elf/bin"; then \
+    rm -f /usr/local/cross/x86_64-elf/bin/ld; \
+    ln /usr/local/cross/bin/$n /usr/local/cross/x86_64-elf/bin/ld >/dev/null 2>/dev/null \
+    ||  /bin/bash ./libtool --mode=install /usr/bin/install -c ld-new /usr/local/cross/x86_64-elf/bin/ld; \
+  fi; \
+fi
+ /usr/bin/mkdir -p '/usr/local/cross/lib/bfd-plugins'
+ /bin/bash ./libtool   --mode=install /usr/bin/install -c   libdep.la '/usr/local/cross/lib/bfd-plugins'
+libtool: install: /usr/bin/install -c .libs/libdep.so /usr/local/cross/lib/bfd-plugins/libdep.so
+libtool: install: /usr/bin/install -c .libs/libdep.lai /usr/local/cross/lib/bfd-plugins/libdep.la
+/bin/bash ../../binutils-2.37/ld/../mkinstalldirs /usr/local/cross/x86_64-elf/lib/ldscripts
+mkdir -p -- /usr/local/cross/x86_64-elf/lib/ldscripts
+for f in ldscripts/* ; do \
+  /usr/bin/install -c -m 644 $f /usr/local/cross/x86_64-elf/lib/$f ; \
+done
+rm -f /usr/local/cross/lib/bfd-plugins/libdep.la
+rm -f /usr/local/cross/lib/bfd-plugins/libdep.dll.a
+ /usr/bin/mkdir -p '/usr/local/cross/share/info'
+ /usr/bin/install -c -m 644 ../../binutils-2.37/ld/ld.info '/usr/local/cross/share/info'
+ install-info --info-dir='/usr/local/cross/share/info' '/usr/local/cross/share/info/ld.info'
+ /usr/bin/mkdir -p '/usr/local/cross/share/man/man1'
+ /usr/bin/install -c -m 644 '../../binutils-2.37/ld/ld.1' '/usr/local/cross/share/man/man1/x86_64-elf-ld.1'
+make[5]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[4]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/ld'
+make[2]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty'
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+if test -n ""; then \
+	/bin/bash ../../binutils-2.37/libiberty/../mkinstalldirs /usr/local/cross/lib/`gcc -g -O2     -print-multi-os-directory`; \
+	/usr/bin/install -c -m 644 ./libiberty.a /usr/local/cross/lib/`gcc -g -O2     -print-multi-os-directory`/./libiberty.an; \
+	( cd /usr/local/cross/lib/`gcc -g -O2     -print-multi-os-directory` ; chmod 644 ./libiberty.an ;ranlib --plugin /usr/libexec/gcc/x86_64-linux-gnu/13/liblto_plugin.so ./libiberty.an ); \
+	mv -f /usr/local/cross/lib/`gcc -g -O2     -print-multi-os-directory`/./libiberty.an /usr/local/cross/lib/`gcc -g -O2     -print-multi-os-directory`/./libiberty.a; \
+	case "" in \
+	  /*)    thd=;; \
+	  *)     thd=/usr/local/cross/include/;; \
+	esac; \
+	/bin/bash ../../binutils-2.37/libiberty/../mkinstalldirs ${thd}; \
+	for h in ../../binutils-2.37/libiberty/../include/ansidecl.h ../../binutils-2.37/libiberty/../include/demangle.h ../../binutils-2.37/libiberty/../include/dyn-string.h ../../binutils-2.37/libiberty/../include/fibheap.h ../../binutils-2.37/libiberty/../include/floatformat.h ../../binutils-2.37/libiberty/../include/hashtab.h ../../binutils-2.37/libiberty/../include/libiberty.h ../../binutils-2.37/libiberty/../include/objalloc.h ../../binutils-2.37/libiberty/../include/partition.h ../../binutils-2.37/libiberty/../include/safe-ctype.h ../../binutils-2.37/libiberty/../include/sort.h ../../binutils-2.37/libiberty/../include/splay-tree.h ../../binutils-2.37/libiberty/../include/timeval-utils.h; do \
+	  /usr/bin/install -c -m 644 $h ${thd}; \
+	done; \
+fi
+make[3]: Entering directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+make[3]: Nothing to be done for 'install'.
+make[3]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty/testsuite'
+make[2]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils/libiberty'
+make[1]: Nothing to be done for 'install-target'.
+make[1]: Leaving directory '/home/juggernut/Desktop/C_Projects/Moon_OS/moon_os/build-binutils'

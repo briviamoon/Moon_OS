@@ -1,20 +1,7 @@
-# Ignore files specific to Visual Studio Code
-.vscode/
-.vscode/*
-.code-workspace
-
-# Ignore shell script files
-code_context.sh
-get_code_context.sh
-
-# Ignore common development environment files
-node_modules/
-dist/
-build/
-.DS_Store
-*.log
-*.env
-.env.*
-.idea/
-*.iml
+*.tar.gz
+create_project.py
+build-2.37
+build-gcc
+build-binutils
+gcc-11.2.0
 
